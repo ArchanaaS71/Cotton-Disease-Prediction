@@ -53,25 +53,28 @@ The notebook includes:
 
 
 2. Install dependencies:
-   '''bash
+   ```bash
     pip install -r requirements.txt
 
     
-3. Run the notebook in a Jupyter environment::
-   '''bash
+3. Run the notebook in a Jupyter environment:
+   ```bash
    jupyter notebook cotton-plant-disease.ipynb
 
 
 ##📌 Results
+
 The model achieves high classification accuracy on the test set and is lightweight enough for real-time inference on edge devices.
 
 
 ##🤝 Acknowledgments
+
 Dataset by contributors on Kaggle
 PyTorch & TorchVision libraries
 
 
 ##📬 Contact
+
 For any questions or collaborations, feel free to reach out!
 
 
