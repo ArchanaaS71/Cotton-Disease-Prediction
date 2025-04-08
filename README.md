@@ -62,12 +62,12 @@ The notebook includes:
    jupyter notebook cotton-plant-disease.ipynb
 
 
-##📌 Results
+## 📌 Results
 
 The model achieves high classification accuracy on the test set and is lightweight enough for real-time inference on edge devices.
 
 
-##🤝 Acknowledgments
+## 🤝 Acknowledgments
 
 Dataset by contributors on Kaggle
 PyTorch & TorchVision libraries
