@@ -12,7 +12,7 @@ A deep learning-based project for detecting and classifying cotton plant disease
   - Fresh cotton leaf
   - Fresh cotton plant
 
----
+
 
 ## 🧠 Model Architecture
 
@@ -22,7 +22,7 @@ The core model integrates:
 
 > The classifier head is fully customized with dropout and linear layers for classification.
 
----
+
 
 ## 🛠️ Implementation Details
 
@@ -33,7 +33,7 @@ The core model integrates:
   - Random rotation
 - **Train/Val/Test Split**: 70% / 15% / 15%
 
----
+
 
 ## 📊 Evaluation
 
@@ -42,7 +42,7 @@ The notebook includes:
 - Loss visualization
 - Prediction examples
 
----
+
 
 ## 🚀 How to Run
 
@@ -50,3 +50,28 @@ The notebook includes:
    ```bash
    git clone https://github.com/your-username/cotton-plant-disease
    cd cotton-plant-disease
+
+
+2. Install dependencies:
+   '''bash
+    pip install -r requirements.txt
+
+    
+3. Run the notebook in a Jupyter environment::
+   '''bash
+   jupyter notebook cotton-plant-disease.ipynb
+
+
+##📌 Results
+The model achieves high classification accuracy on the test set and is lightweight enough for real-time inference on edge devices.
+
+
+##🤝 Acknowledgments
+Dataset by contributors on Kaggle
+PyTorch & TorchVision libraries
+
+
+##📬 Contact
+For any questions or collaborations, feel free to reach out!
+
+
