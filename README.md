@@ -73,7 +73,7 @@ Dataset by contributors on Kaggle
 PyTorch & TorchVision libraries
 
 
-##📬 Contact
+## 📬 Contact
 
 For any questions or collaborations, feel free to reach out!
 
